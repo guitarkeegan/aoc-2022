@@ -1,0 +1,147 @@
+Start pos: row: [0 0], col: %!d(MISSING)
+r: [0 0], c: %!d(MISSING)
+Start pos: row: [0 0], col: %!d(MISSING)
+r: [0 0], c: %!d(MISSING)
+Start pos: row: [0 0], col: %!d(MISSING)
+r: [0 0], c: %!d(MISSING)
+At S
+%!(EXTRA []interface {}=[])At S
+%!(EXTRA []interface {}=[])Start pos: row: [0 0], col: %!d(MISSING)
+r: [0 0], c: %!d(MISSING)
+Start pos: row: [0 0], col: %!d(MISSING)
+r: [0 0], c: %!d(MISSING)
+Start pos: row: [0 0], col: %!d(MISSING)
+r: [0 0], c: %!d(MISSING)
+invalid move
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])Start pos: row: [0 0], col: %!d(MISSING)
+r: [0 0], c: %!d(MISSING)
+r: [0 1], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])r: [1 0], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [0 2], c: %!d(MISSING)
+invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [1 1], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [2 0], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])r: [1 2], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [2 1], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [3 0], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])r: [2 2], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [3 1], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [4 0], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [3 2], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [4 1], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [4 2], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [4 3], c: %!d(MISSING)
+invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [4 4], c: %!d(MISSING)
+invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [4 5], c: %!d(MISSING)
+invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [4 6], c: %!d(MISSING)
+invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [4 7], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])r: [3 7], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])r: [2 7], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])r: [1 7], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])r: [0 7], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])r: [0 6], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])r: [0 5], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])r: [0 4], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])r: [0 3], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [1 3], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [2 3], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [3 3], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [3 4], c: %!d(MISSING)
+invalid move
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [3 5], c: %!d(MISSING)
+found E
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [3 6], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [2 6], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])found E
+%!(EXTRA []interface {}=[])r: [1 6], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [1 5], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])found E
+%!(EXTRA []interface {}=[])r: [1 4], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])visited
+%!(EXTRA []interface {}=[])r: [2 4], c: %!d(MISSING)
+visited
+%!(EXTRA []interface {}=[])found E
+%!(EXTRA []interface {}=[])
